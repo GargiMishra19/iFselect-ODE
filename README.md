@@ -1,1 +1,1 @@
-# iFselect-ODE: An Individual Fairness based Outlier Detection Ensemble
+# Individually Fair Selection (iFselect) of members for an Outlier Detection Ensemble
